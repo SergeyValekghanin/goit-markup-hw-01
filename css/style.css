@@ -1,0 +1,15 @@
+.hhh {
+  color: rgb(243, 7, 7);
+}
+
+.body {
+  background-color: aqua;
+}
+
+.hhh:hover {
+  color: rgb(33, 19, 223);
+}
+
+.link-logo:hover {
+  color: rgb(236, 223, 223);
+}
